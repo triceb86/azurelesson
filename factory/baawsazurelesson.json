@@ -1,0 +1,9 @@
+{
+	"name": "baawsazurelesson",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a9bef9f-8111-4f0f-a71a-52ac8c20a733",
+		"tenantId": "d7720e47-a110-4d15-9059-e88bd96646f9"
+	}
+}
